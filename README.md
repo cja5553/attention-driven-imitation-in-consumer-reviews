@@ -1,12 +1,4 @@
-## Hi, Prof Mikhail, you can edit the codes of the final statistical analysis on the folder `5_statistical_analysis` --> `statistical_model` --> `analysis.R`. Or if you wish you can give it to me and I can help you with it. Thanks 
-
-# Codes used for MSc Dissertation titled "The role of default-displayed reviews in anchoring online reviewers: text evidence from STEAM video-games". 
-
-## By Charles Alba
-
-## Supervised by: Drs. Lukasz Walasek, Mikhail Spektor
-
-## Dissertation Grade: Distinction
+## By Charles Alba, Drs. Lukasz Walasek, Mikhail Spektor
 
 Code works in the following sequential order:
 
