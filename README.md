@@ -6,23 +6,23 @@ How do reviewers decide what to write about? How much do reviews written by othe
 
 Code works in the following sequential order:
 
-1. Data Scrapping
+#### 1. Data Scrapping
 
 In this stage we scrapped the data from STEAM. Data was scrapped and gathered courtesy of STEAM API. Please refer and abide to their terms of use at all times. Refer to their terms of use here: https://steamcommunity.com/dev/apiterms
 
-2. Validation of review sorting algorithms
+#### 2. Validation of review sorting algorithms
 
 As mentioned in the abstract, we aimed to trace the reviews that would have been made visible to each gamer when he/she was writing his/her review. We do not know exactly how STEAMs algorithm decides what reviews at displayed to each gamer when they write their reviews, but we can reverse-engineer and hypothesize them. So we tested and validated our reversed-engineered hypothesized algorithm. 
 
-3. Data Wrangling
+#### 3. Data Wrangling
 
 Having tested and validated our hypothesized algorithm, we then trace what each reviewer will have seen when writing his/her own review. 
 
-4. Text Mining
+#### 4. Text Mining
 
 Here we perform text pre-processing, and implement fast-text embeddings with cosine-similarity matrices to determine how close each review is to the reviews that the reviewer will have seen. 
 
-5. Statistical Analysis
+#### 5. Statistical Analysis
 
 Performed statistical analysis to test our effect sizes. 
 
