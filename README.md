@@ -1,5 +1,8 @@
 ## By Charles Alba, Drs. Lukasz Walasek, Mikhail Spektor
 
+
+Cite as: Alba, C., Walasek, L., Spektor M. "Attention-driven imitation in consumer reviews". 
+
 Status: Submitted to Decisions [Special Issue on interface between machine learning (ML), artificial intelligence (AI), and judgment and decision making (JDM) research]
 
 ### Abstract summary:
@@ -32,6 +35,5 @@ Performed statistical analysis to test our effect sizes.
 
 
 
-Cite as: Alba, C., Walasek, L., Spektor M. "Attention-driven imitation in consumer reviews". 
 
 
