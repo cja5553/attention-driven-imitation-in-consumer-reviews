@@ -1,9 +1,7 @@
 ## By Charles Alba, Drs. Lukasz Walasek, Mikhail Spektor
 
 
-Cite as: Alba, C., Walasek, L., Spektor M. "Attention-driven imitation in consumer reviews". 
-
-Status: Submitted to Decisions [Special Issue on interface between machine learning (ML), artificial intelligence (AI), and judgment and decision making (JDM) research]
+Cite as: Alba, C., Walasek, L., Spektor M. (2024) "Attention-driven imitation in consumer reviews". Decision (Special Issue on interface between ML, AI and JDM research)
 
 ### Abstract summary:
 How do reviewers decide what to write about? How much do reviews written by others influence one’s own contribution. We predicted that reviews will be more semantically similar to the most successful, salient, and readily accessible reviews written by others. To investigate this hypothesis, we extracted over 3 million reviews from a ``STEAM``. We reversed-engineer and traced the reviews that were displayed at the time to each reviewer at the time each review was being composed. Using word embeddings from ``fast-text``, we quantified the ``cosine similarity`` between a given review and other reviews that were visible (or not) to a user. We found that reviewers imitate the most helpful reviews written by others, especially those that are visually salient. At the same time, reviewers avoid imitating content of the most recent (and not necessarily highly rated) reviews, even if these reviews are salient at the time when they compose their review. Our findings suggest that the default sorting and display format of reviews on online platforms will have a pronounced effect on the style and content of new reviews.
